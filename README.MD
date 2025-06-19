@@ -47,13 +47,14 @@ Copilot：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 |  capa  | Gere uma imagem para a capa de um ebook. A imagem deve ter um cérebro tecnológico, com ramificações neurais para os maiores problemas que a tecnologia pode resolver e no plano de fundo vários códigos, pode ser hexadecimais. O tema deve ter total concordância com o título escolhido por mim que foi o "Startup: A magia da inovação". Segue uma imagem como exemplo a ser gerado.
-| conteúdo | Faça um texto para ebook, com foco em inovação para Startups, listando as principais características de inovação que uma startup deve ter para que se tenha sucesso
+| conteúdo | | Faça um texto para ebook, com foco em inovação para Startups, listando as principais características de inovação que uma startup deve ter para que se tenha sucesso
     {REGRAS}
     - Dê uma introdução sobre o que é inovação
     - Escreva sempre de uma maneira simples e entendível
     - Deixe o texto enxuto
     - DÊ exemplos de startups que obtiveram sucesso de acordo com o conteúdo gerado
     - deixe um título sugestivo por capítulo
+|
 
 ## ✨ Features
 
