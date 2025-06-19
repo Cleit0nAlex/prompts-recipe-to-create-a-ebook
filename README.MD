@@ -54,7 +54,6 @@ Copilot：
     - Deixe o texto enxuto
     - DÊ exemplos de startups que obtiveram sucesso de acordo com o conteúdo gerado
     - deixe um título sugestivo por capítulo
- |
 
 ## ✨ Features
 
@@ -79,7 +78,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/23064370?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspCleiton Alex Martins<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Cleit0nAlex">
     GitHub</a>&nbsp;|&nbsp;
