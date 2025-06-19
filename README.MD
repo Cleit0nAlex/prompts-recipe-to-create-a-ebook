@@ -20,18 +20,18 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Cleit0nAlex/prompts-recipe-to-create-a-ebook/blob/main/output/Startups.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Copilot](https://copilot.microsoft.com)
 
 ## 🧠 Prompts
 
@@ -40,20 +40,26 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie um título de um ebook sobre o tema inovação, o ebook é para o nicho de empreendedores e o subnicho é de startups, o título deve ser impactante e curto, e que tenha uma temática tecnológica e inovadora. Ao final, liste-me 5 variações de títulos                                                        |
 
-
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  capa  | Gere uma imagem para a capa de um ebook. A imagem deve ter um cérebro tecnológico, com ramificações neurais para os maiores problemas que a tecnologia pode resolver e no plano de fundo vários códigos, pode ser hexadecimais. O tema deve ter total concordância com o título escolhido por mim que foi o "Startup: A magia da inovação". Segue uma imagem como exemplo a ser gerado.
+| conteúdo | Faça um texto para ebook, com foco em inovação para Startups, listando as principais características de inovação que uma startup deve ter para que se tenha sucesso
+    [REGRAS]
+    - Dê uma introdução sobre o que é inovação
+    - Escreva sempre de uma maneira simples e entendível
+    - Deixe o texto enxuto
+    - DÊ exemplos de startups que obtiveram sucesso de acordo com o conteúdo gerado
+    - deixe um título sugestivo por capítulo
+ |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Título gerado via ChatGPT
+- Conteúdo e imagem da capa gerados via Microsoft Copilot
 
 ## 📚 Materiais
 
@@ -71,22 +77,21 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/23064370?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/Cleit0nAlex">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+cleitonalex">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+
+</p>
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Cleiton Alex Martins](https://github.com/Cleit0nAlex")
